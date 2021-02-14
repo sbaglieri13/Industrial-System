@@ -18,4 +18,5 @@ Per implementare quanto descritto sopra utilizzamo 3 design pattern:
 implementati come Singleton per risparmio di risorse, in quanto basta una sola istanza condivisa per ogni classe.
 
 ## Class Diagram
-![](https://github.com/cr4sh13/Image-in-readme/blob/main/ClassUMLIndustrialSystem.png?raw=true)
+![ClassUMLIndustrialSystem](https://user-images.githubusercontent.com/39347210/107878471-3f0e7900-6ed3-11eb-98a9-2ec3a24dae76.png)
+
