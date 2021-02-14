@@ -1,4 +1,4 @@
-# Industrial-System
+# Industrial System
 
 ## Introduzione
 Consideriamo un sistema industriale la cui configurazione è un'aggregazione ricorsiva di Configuration Items.    
