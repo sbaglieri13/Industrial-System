@@ -20,3 +20,4 @@ implementati come Singleton per risparmio di risorse, in quanto basta una sola i
 ## Class Diagram
 ![ClassUMLIndustrialSystem](https://user-images.githubusercontent.com/39347210/107878471-3f0e7900-6ed3-11eb-98a9-2ec3a24dae76.png)
 
+## See full documentation [here](https://github.com/sbaglieri13/Industrial-System/blob/master/Relazione_elaborato_SWE.pdf)
